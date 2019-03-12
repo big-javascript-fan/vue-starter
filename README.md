@@ -16,19 +16,6 @@ Here are the snippets I'll be using [vue sublime snippets](https://github.com/sd
 
 For sections covering Nuxt, we will be using the directories listed in the Nuxt section below as well as their directories, prefixed with `nuxt-` here.
 
-## Slides:
-
-- [Intro to Vue 1: Directives & Data Rendering](http://slides.com/sdrasner/intro-to-vue-1?token=9-aFNhlX)
-- [Intro to Vue 2: Methods, Computed, Watchers](http://slides.com/sdrasner/intro-to-vue-2?token=502n2b7V)
-- [Intro to Vue 3: Components, Slots](http://slides.com/sdrasner/intro-to-vue-3?token=LwIVIblm)
-- [Intro to Vue 4: Vue CLI & Nuxt](http://slides.com/sdrasner/intro-to-vue-4?token=Xb4oA4YR)
-- [Intro to Vue 5: Vue Animations](http://slides.com/sdrasner/intro-to-vue-5?token=5zRhIuNg)
-- [Intro to Vue 5.5: Vue Animations](https://slides.com/sdrasner/animating-vue-35/)
-- [Intro to Vue 6: Filters, Mixins, & Custom Directives](http://slides.com/sdrasner/intro-to-vue-6?token=fcL8qgTg)
-- [Intro to Vue 7: Vuex](http://slides.com/sdrasner/intro-to-vue-7?token=u9qUgRsW)
-
-All slides have password `!vue!`
-
 ## Collections:
 
 - [Vue Workshop Materials Collection](https://codepen.io/collection/noYZxW/)
@@ -70,9 +57,3 @@ Here are the directories for the Vuex exercise:
 
 - commentform-problem
 - commentform-solution
-
-## License
-
-[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
